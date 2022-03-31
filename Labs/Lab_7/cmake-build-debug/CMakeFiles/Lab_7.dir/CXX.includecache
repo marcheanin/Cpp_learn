@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7/declaration.h
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7/declaration.h
 iostream
 -
 
-C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7/implementation.cpp
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7/implementation.cpp
 declaration.h
-C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7/declaration.h
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7/declaration.h
 
-C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7/main.cpp
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7/main.cpp
 implementation.cpp
-C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7/implementation.cpp
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7/implementation.cpp
 

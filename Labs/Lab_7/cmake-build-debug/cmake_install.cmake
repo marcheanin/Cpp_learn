@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7
+# Install script for directory: C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/march/materials/Programming/Cpp_learn/Labs/Lab_7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_7/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
