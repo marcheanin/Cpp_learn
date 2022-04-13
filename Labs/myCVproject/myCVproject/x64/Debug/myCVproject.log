@@ -1,0 +1,2 @@
+﻿  detect_markers.cpp
+c1xx : fatal error C1083: Не удается открыть файл источник: ..\..\..\opencv-3.0\source\opencv_contrib\modules\aruco\samples\detect_markers.cpp: No such file or directory,
