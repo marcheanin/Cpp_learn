@@ -1,0 +1,3 @@
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_8/cmake-build-debug/CMakeFiles/Lab_8.dir
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
