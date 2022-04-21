@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_9/declaration.h
+iostream
+-
+set
+-
+algorithm
+-
+
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_9/implementation.cpp
+declaration.h
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_9/declaration.h
+
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_9/main.cpp
+implementation.cpp
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab_9/implementation.cpp
+
