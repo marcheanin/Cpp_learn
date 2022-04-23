@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab10_iterator/declaration.h
+iostream
+-
+
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab10_iterator/main.cpp
+declaration.h
+C:/Users/march/materials/Programming/Cpp_learn/Cpp_learn/Labs/Lab10_iterator/declaration.h
+
