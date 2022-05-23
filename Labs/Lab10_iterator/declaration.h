@@ -62,7 +62,7 @@ public:
         bool operator== (const Iterator& it) {return cur == it.cur; }
 
         Iterator operator+=(Fraction x){
-            *cur = Fraction::sum(*cur, x);
+            *cur = *cur + x;
             //Fractions::arr
             return *this;
         }
